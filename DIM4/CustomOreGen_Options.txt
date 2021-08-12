@@ -1,0 +1,2 @@
+#Custom Ore Generation 1.2.24 Config Options
+#Tue Aug 10 21:40:09 MSK 2021
